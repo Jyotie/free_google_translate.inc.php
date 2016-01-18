@@ -1,3 +1,6 @@
+# Warning
+At 2016-01-18, i noticed that Google has changed something with their Javascritp API, which renders this api useless until it is updated.
+
 # free_google_translate.inc.php
 free (no subscription required) google translate api for PHP.
 usage: 
