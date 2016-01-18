@@ -1,3 +1,6 @@
+#deprecated
+this api is deprecated and unmaintained, i suggest you check out https://github.com/Stichoza/google-translate-php instead.
+
 # Warning
 At 2016-01-18, i noticed that Google has changed something with their Javascritp API, which renders this api useless until it is updated.
 at the very least, they changed the "tk" algorithm, and as always, the algorithm is highly obfucated and scattered, making it a difficult task to reconstruct and re-implement the algorithm.. see this page for mor information: https://github.com/divinity76/free_google_translate.inc.php/issues/1
